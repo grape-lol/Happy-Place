@@ -15,8 +15,9 @@
         },
         "intermediate_mappings": "net.fabricmc:intermediary",
         "entrypoints": {
-            "init": "io.grape.happyplace.HappyPlace"
-        },
+            "init": "io.grape.happyplace.HappyPlace",
+						"fabric-datagen": "io.grape.happyplace.DataGenerator"
+				},
         "depends": [
             {
                 "id": "quilt_loader",

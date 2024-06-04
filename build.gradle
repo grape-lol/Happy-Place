@@ -7,6 +7,10 @@ base {
 	archivesName = project.archives_base_name
 }
 
+fabricApi {
+	configureDataGeneration()
+}
+
 version = "$project.version+${libs.versions.minecraft.get()}"
 group = project.maven_group
 

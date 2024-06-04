@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/template_music_disc",
   "textures": {
     "layer0": "happyplace:item/cart_riding_music_disc"
   }

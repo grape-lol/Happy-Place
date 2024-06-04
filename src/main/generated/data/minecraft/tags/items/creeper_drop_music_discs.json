@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "happyplace:trail_mix_music_disc",
+    "happyplace:sunlit_valley_music_disc",
+    "happyplace:afternoon_cartoons_music_disc",
+    "happyplace:boardwalk_music_disc",
+    "happyplace:bug_catching_music_disc",
+    "happyplace:driftwood_music_disc",
+    "happyplace:cart_riding_music_disc",
+    "happyplace:journey_music_disc",
+    "happyplace:nightfall_music_disc",
+    "happyplace:pet_rock_music_disc",
+    "happyplace:puzzled_music_disc",
+    "happyplace:rat_tactics_music_disc",
+    "happyplace:showdown_music_disc",
+    "happyplace:sinister_music_disc",
+    "happyplace:slow_morning_music_disc"
+  ]
+}
