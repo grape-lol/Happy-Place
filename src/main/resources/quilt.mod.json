@@ -8,7 +8,7 @@
             "name": "Happy Place",
             "description": "Adds music discs from the album \"Happy Place\"",
             "contributors": {
-                "Owner": "a"
+                "Grape": "Owner"
             },
             "contact": {},
             "icon": "assets/happyplace/logo.jpg"
