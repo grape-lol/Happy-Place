@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "happyplace:item/afternoon_cartoons_music_disc"
+  }
+}

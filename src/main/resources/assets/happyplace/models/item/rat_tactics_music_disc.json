@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "happyplace:item/rat_tactics_music_disc"
+  }
+}

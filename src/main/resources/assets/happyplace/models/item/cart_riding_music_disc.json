@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "happyplace:item/cart_riding_music_disc"
+  }
+}

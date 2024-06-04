@@ -1,0 +1,36 @@
+{
+    "schema_version": 1,
+    "quilt_loader": {
+        "group": "${group}",
+        "id": "happyplace",
+        "version": "${version}",
+        "metadata": {
+            "name": "Happy Place",
+            "description": "Adds music discs from the album \"Happy Place\"",
+            "contributors": {
+                "Owner": "a"
+            },
+            "contact": {},
+            "icon": "assets/happyplace/logo.jpg"
+        },
+        "intermediate_mappings": "net.fabricmc:intermediary",
+        "entrypoints": {
+            "init": "io.grape.happyplace.HappyPlace"
+        },
+        "depends": [
+            {
+                "id": "quilt_loader",
+                "versions": ">=0.19.1"
+            },
+            {
+                "id": "quilted_fabric_api",
+                "versions": ">=7.0.2"
+            },
+            {
+                "id": "minecraft",
+                "versions": ">=1.20"
+            }
+        ]
+    },
+    "mixin": "happyplace.mixins.json"
+}

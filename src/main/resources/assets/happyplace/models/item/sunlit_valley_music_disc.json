@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "happyplace:item/sunlit_valley_music_disc"
+  }
+}

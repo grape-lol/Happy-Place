@@ -1,0 +1,122 @@
+{
+  "cart_riding": {
+    "sounds": [
+      {
+        "name": "happyplace:cart_riding",
+        "stream": true
+      }
+    ]
+  },
+  "slow_morning": {
+    "sounds": [
+      {
+        "name": "happyplace:slow_morning",
+        "stream": true
+      }
+    ]
+  },
+  "boardwalk": {
+    "sounds": [
+      {
+        "name": "happyplace:boardwalk",
+        "stream": true
+      }
+    ]
+  },
+  "sunlit_valley": {
+    "sounds": [
+      {
+        "name": "happyplace:sunlit_valley",
+        "stream": true
+      }
+    ]
+  },
+  "bug_catching": {
+    "sounds": [
+      {
+        "name": "happyplace:bug_catching",
+        "stream": true
+      }
+    ]
+  },
+  "trail_mix": {
+    "sounds": [
+      {
+        "name": "happyplace:trail_mix",
+        "stream": true
+      }
+    ]
+  },
+  "pet_rock": {
+    "sounds": [
+      {
+        "name": "happyplace:pet_rock",
+        "stream": true
+      }
+    ]
+  },
+  "puzzled": {
+    "sounds": [
+      {
+        "name": "happyplace:puzzled",
+        "stream": true
+      }
+    ]
+  },
+  "rat_tactics": {
+    "sounds": [
+      {
+        "name": "happyplace:rat_tactics",
+        "stream": true
+      }
+    ]
+  },
+  "afternoon_cartoons": {
+    "sounds": [
+      {
+        "name": "happyplace:afternoon_cartoons",
+        "stream": true
+      }
+    ]
+  },
+  "sinister": {
+    "sounds": [
+      {
+        "name": "happyplace:sinister",
+        "stream": true
+      }
+    ]
+  },
+  "showdown": {
+    "sounds": [
+      {
+        "name": "happyplace:showdown",
+        "stream": true
+      }
+    ]
+  },
+  "journey": {
+    "sounds": [
+      {
+        "name": "happyplace:journey",
+        "stream": true
+      }
+    ]
+  },
+  "driftwood": {
+    "sounds": [
+      {
+        "name": "happyplace:driftwood",
+        "stream": true
+      }
+    ]
+  },
+  "nightfall": {
+    "sounds": [
+      {
+        "name": "happyplace:nightfall",
+        "stream": true
+      }
+    ]
+  }
+}

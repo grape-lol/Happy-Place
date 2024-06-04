@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "happyplace:item/nightfall_music_disc"
+  }
+}
