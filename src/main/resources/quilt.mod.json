@@ -10,8 +10,12 @@
             "contributors": {
                 "Grape": "Owner"
             },
-            "contact": {},
-            "icon": "assets/happyplace/logo.jpg"
+					"contact": {
+						"homepage": "https://discord.gg/bygEKhsFtF",
+						"sources": "https://github.com/grape-lol/Happy-Place",
+						"issues": "https://github.com/grape-lol/Happy-Place/issues"
+					},
+            "icon": "assets/happyplace/logo.png"
         },
         "intermediate_mappings": "net.fabricmc:intermediary",
         "entrypoints": {

@@ -11,6 +11,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class TitleScreenMixin {
     @Inject(method = "init", at = @At("TAIL"))
     public void onInit(CallbackInfo ci) {
-        HappyPlace.LOGGER.info(" ");
+        HappyPlace.LOGGER.info("Happy Place mod has initialized the Title Screen");
     }
 }
