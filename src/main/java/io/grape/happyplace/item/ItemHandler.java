@@ -8,53 +8,54 @@ import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.Rarity;
 import org.quiltmc.qsl.item.setting.api.QuiltItemSettings;
 
 public class ItemHandler {
 	public static final Item CART_RIDING_MUSIC_DISC = registerItem("cart_riding_music_disc",
-		new MusicDiscItem(8, SoundHandler.CART_RIDING, new QuiltItemSettings().maxCount(1), 135));
+		new MusicDiscItem(8, SoundHandler.CART_RIDING, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 135));
 
 	public static final Item SLOW_MORNING_MUSIC_DISC = registerItem("slow_morning_music_disc",
-		new MusicDiscItem(8, SoundHandler.SLOW_MORNING, new QuiltItemSettings().maxCount(1), 151));
+		new MusicDiscItem(8, SoundHandler.SLOW_MORNING, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 151));
 
 	public static final Item BOARDWALK_MUSIC_DISC = registerItem("boardwalk_music_disc",
-		new MusicDiscItem(8, SoundHandler.BOARDWALK, new QuiltItemSettings().maxCount(1), 94));
+		new MusicDiscItem(8, SoundHandler.BOARDWALK, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 94));
 
 	public static final Item SUNLIT_VALLEY_MUSIC_DISC = registerItem("sunlit_valley_music_disc",
-		new MusicDiscItem(8, SoundHandler.SUNLIT_VALLEY, new QuiltItemSettings().maxCount(1), 152));
+		new MusicDiscItem(8, SoundHandler.SUNLIT_VALLEY, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 152));
 
 	public static final Item BUG_CATCHING_MUSIC_DISC = registerItem("bug_catching_music_disc",
-		new MusicDiscItem(8, SoundHandler.BUG_CATCHING, new QuiltItemSettings().maxCount(1), 87));
+		new MusicDiscItem(8, SoundHandler.BUG_CATCHING, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 87));
 
 	public static final Item TRAIL_MIX_MUSIC_DISC = registerItem("trail_mix_music_disc",
-		new MusicDiscItem(8, SoundHandler.TRAIL_MIX, new QuiltItemSettings().maxCount(1), 143));
+		new MusicDiscItem(8, SoundHandler.TRAIL_MIX, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 143));
 
 	public static final Item PET_ROCK_MUSIC_DISC = registerItem("pet_rock_music_disc",
-		new MusicDiscItem(8, SoundHandler.PET_ROCK, new QuiltItemSettings().maxCount(1), 95));
+		new MusicDiscItem(8, SoundHandler.PET_ROCK, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 95));
 
 	public static final Item PUZZLED_MUSIC_DISC = registerItem("puzzled_music_disc",
-		new MusicDiscItem(8, SoundHandler.PUZZLED, new QuiltItemSettings().maxCount(1), 52));
+		new MusicDiscItem(8, SoundHandler.PUZZLED, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 52));
 
 	public static final Item RAT_TACTICS_MUSIC_DISC = registerItem("rat_tactics_music_disc",
-		new MusicDiscItem(8, SoundHandler.RAT_TACTICS, new QuiltItemSettings().maxCount(1), 200));
+		new MusicDiscItem(8, SoundHandler.RAT_TACTICS, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 200));
 
 	public static final Item AFTERNOON_CARTOONS_MUSIC_DISC = registerItem("afternoon_cartoons_music_disc",
-		new MusicDiscItem(8, SoundHandler.AFTERNOON_CARTOONS, new QuiltItemSettings().maxCount(1), 183));
+		new MusicDiscItem(8, SoundHandler.AFTERNOON_CARTOONS, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 183));
 
 	public static final Item SINISTER_MUSIC_DISC = registerItem("sinister_music_disc",
-		new MusicDiscItem(8, SoundHandler.SINISTER, new QuiltItemSettings().maxCount(1), 183));
+		new MusicDiscItem(8, SoundHandler.SINISTER, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 183));
 
 	public static final Item SHOWDOWN_MUSIC_DISC = registerItem("showdown_music_disc",
-		new MusicDiscItem(8, SoundHandler.SHOWDOWN, new QuiltItemSettings().maxCount(1), 185));
+		new MusicDiscItem(8, SoundHandler.SHOWDOWN, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 185));
 
 	public static final Item JOURNEY_MUSIC_DISC = registerItem("journey_music_disc",
-		new MusicDiscItem(8, SoundHandler.JOURNEY, new QuiltItemSettings().maxCount(1), 143));
+		new MusicDiscItem(8, SoundHandler.JOURNEY, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 143));
 
 	public static final Item DRIFTWOOD_MUSIC_DISC = registerItem("driftwood_music_disc",
-		new MusicDiscItem(8, SoundHandler.DRIFTWOOD, new QuiltItemSettings().maxCount(1), 142));
+		new MusicDiscItem(8, SoundHandler.DRIFTWOOD, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 142));
 
 	public static final Item NIGHTFALL_MUSIC_DISC = registerItem("nightfall_music_disc",
-		new MusicDiscItem(8, SoundHandler.NIGHTFALL, new QuiltItemSettings().maxCount(1), 312));
+		new MusicDiscItem(8, SoundHandler.NIGHTFALL, new QuiltItemSettings().maxCount(1).rarity(Rarity.RARE), 312));
 
 	private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
 		entries.addItem(CART_RIDING_MUSIC_DISC);
