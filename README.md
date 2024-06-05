@@ -6,7 +6,7 @@ Happy Place is a mod that adds 15 music discs from the album "Happy Place" by OS
 All of the music in this mod is All Rights Reservered and I have permission to upload this mod.
 https://www.opussciencecollective.com
 
-<a href="https://quiltmc.org/en/"><img src="https://badges.penpow.dev/badges/supported/quilt/cozy.svg" alt="Available For Quilt"/></a>
+<a href="https://quiltmc.org/en/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg" alt="Available For Quilt"/></a>
 <a href="https://fabricmc.net/"><img src="https://badges.penpow.dev/badges/supported/fabric/cozy.svg" alt="Available For Fabric"/></a>
 <img alt="Wont support Forge" src="https://badges.penpow.dev/badges/unsupported/forge/cozy.svg">
 <a href="https://legacy.curseforge.com/minecraft/mc-mods/grape"><img src="https://badges.penpow.dev/badges/available/curseforge/cozy.svg" alt="Get on Curseforge"/></a>
