@@ -7,11 +7,11 @@ All of the music in this mod is All Rights Reservered and I have permission to u
 https://www.opussciencecollective.com
 
 <a href="https://quiltmc.org/en/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg" alt="Available For Quilt"/></a>
-<a href="https://fabricmc.net/"><img src="https://badges.penpow.dev/badges/supported/fabric/cozy.svg" alt="Available For Fabric"/></a>
-<img alt="Wont support Forge" src="https://badges.penpow.dev/badges/unsupported/forge/cozy.svg">
-<a href="https://legacy.curseforge.com/minecraft/mc-mods/grape"><img src="https://badges.penpow.dev/badges/available/curseforge/cozy.svg" alt="Get on Curseforge"/></a>
+<a href="https://fabricmc.net/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg" alt="Available For Fabric"/></a>
+<img alt="Wont support Forge" src="ttps://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_vector.svg">
+<a href="https://legacy.curseforge.com/minecraft/mc-mods/grape"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg" alt="Get on Curseforge"/></a>
 
 ### Support 🔧
 <a href="https://www.paypal.com/paypalme/opusscience"><img src="https://raw.githubusercontent.com/grape-lol/misc/main/cozy_vector.svg" alt="Support Him On Paypal"/></a>
-<a href="https://discord.gg/bygEKhsFtF"><img src="https://badges.penpow.dev/badges/social/discord-plural/cozy.svg" alt="Join Discord"/></a>
+<a href="https://discord.gg/bygEKhsFtF"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg" alt="Join Discord"/></a>
 
