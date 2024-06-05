@@ -5,5 +5,9 @@
 **Credit to OSC you can find all his socials at**
 https://www.opussciencecollective.com
 
-<img alt="Built on Quilt" src="https://badges.penpow.dev/badges/supported/quilt/cozy.svg"><img alt="Available for Fabric" src="https://badges.penpow.dev/badges/supported/fabric/cozy.svg">
+All of the music in this mod is All Rights Reservered and I have permission to upload this mod.
+
+<a href="https://quiltmc.org/en/"> <img src="https://badges.penpow.dev/badges/supported/quilt/cozy.svg" alt="Available For Quilt" /> </a>
+<a href="https://fabricmc.net/"> <img src="https://badges.penpow.dev/badges/supported/fabric/cozy.svg" alt="Available For Fabric" /> </a>
 <img alt="Wont support Forge" src="https://badges.penpow.dev/badges/unsupported/forge/cozy.svg">
+<a href="https://www.curseforge.com/minecraft/mc-mods/happy-place"> <img src="https://badges.penpow.dev/badges/available/curseforge/cozy.svg" alt="Get on Curseforge" /> </a>
