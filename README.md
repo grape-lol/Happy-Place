@@ -8,7 +8,7 @@ https://www.opussciencecollective.com
 
 <a href="https://quiltmc.org/en/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg" alt="Available For Quilt"/></a>
 <a href="https://fabricmc.net/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg" alt="Available For Fabric"/></a>
-<img alt="Wont support Forge" src="ttps://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_vector.svg">
+<img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_vector.svg">
 <a href="https://legacy.curseforge.com/minecraft/mc-mods/grape"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg" alt="Get on Curseforge"/></a>
 
 ### Support 🔧
