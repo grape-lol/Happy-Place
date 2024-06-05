@@ -12,6 +12,6 @@ https://www.opussciencecollective.com
 <a href="https://legacy.curseforge.com/minecraft/mc-mods/grape"><img src="https://badges.penpow.dev/badges/available/curseforge/cozy.svg" alt="Get on Curseforge"/></a>
 
 ### Support 🔧
-<a href="https://www.paypal.com/paypalme/opusscience"><img src="https://raw.githubusercontent.com/grape-lol/Happy-Place/master/paypal-singular_vector.svg" alt="Support Him On Paypal"/></a>
+<a href="https://www.paypal.com/paypalme/opusscience"><img src="https://raw.githubusercontent.com/grape-lol/misc/main/cozy_vector.svg" alt="Support Him On Paypal"/></a>
 <a href="https://discord.gg/bygEKhsFtF"><img src="https://badges.penpow.dev/badges/social/discord-plural/cozy.svg" alt="Join Discord"/></a>
 
